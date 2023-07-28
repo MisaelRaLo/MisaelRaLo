@@ -3,6 +3,9 @@ I’m a passionate, proactive and energetic Elixir Developer with +4 years of ex
 - 🔭 I’m currently working on build scalable apps with Phoenix + Erlang/Elixir.
 - 🌱 I’m currently learning to learn.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/misael-ralo/)
+
+![](https://komarev.com/ghpvc/?username=misaelralo&label=PROFILE+VIEWS)
+
   
 ------
 
