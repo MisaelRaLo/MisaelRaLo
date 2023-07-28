@@ -1,4 +1,4 @@
-### Hello folks!
+# Hello folks!
 I’m a passionate, proactive and energetic Elixir Developer with +4 years of experience and:
 - 🔭 I’m currently working on build scalable apps with Phoenix + Erlang/Elixir.
 - 🌱 I’m currently learning to learn.
