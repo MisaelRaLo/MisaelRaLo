@@ -33,7 +33,7 @@ I’m a passionate, proactive and energetic Elixir Developer with +4 years of ex
 </div>
 
 
-
+------
 
 <div align="left" style="width:100%;"> <h3> Maranatha ✝️ </h3> </div>
 
