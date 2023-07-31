@@ -1,7 +1,7 @@
 # Hello folks!
 I’m a passionate, proactive and energetic Elixir Developer with +4 years of experience and:
-- 🔭 I’m currently working on build scalable apps with Phoenix + Erlang/Elixir.
-- 🌱 I’m currently learning to learn.
+- 🔭 I’m currently working on build scalable apps.
+- 🌱 I’m currently doing TDD.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/misael-ralo/)
 
 ![](https://komarev.com/ghpvc/?username=misaelralo&label=PROFILE+VIEWS)
@@ -20,7 +20,6 @@ I’m a passionate, proactive and energetic Elixir Developer with +4 years of ex
 <img  alt="PostgreSQL" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img  alt="NodeJS" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img  alt="GitHub" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img  alt="PHP" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img  alt="Bootstrap" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img  alt="HTML" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  alt="CSS3" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
