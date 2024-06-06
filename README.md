@@ -15,7 +15,7 @@ I’m a passionate, proactive and energetic Elixir Developer with +4 years of ex
 <img  alt="Erlang" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" />
 <img  alt="JavaScript" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="Phoenix" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
-<img  alt="TailwindCSS" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img  alt="TailwindCSS" width="40px" height="40px"  style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 <img  alt="Docker" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img  alt="PostgreSQL" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img  alt="NodeJS" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
