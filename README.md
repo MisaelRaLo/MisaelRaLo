@@ -4,7 +4,7 @@ I’m a passionate, proactive and energetic Elixir Developer with +4 years of ex
 - 🌱 I’m currently doing TDD.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/misael-ralo/)
 
-![](https://komarev.com/ghpvc/?username=misaelralo&label=PROFILE+VIEWS)
+<!--![](https://komarev.com/ghpvc/?username=misaelralo&label=PROFILE+VIEWS) -->
 
   
 ------
