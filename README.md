@@ -1,7 +1,8 @@
 # Hello folks!
-I’m a passionate, proactive and energetic Elixir Developer with +5 years of experience and:
-- 🔭 I’m currently working on build scalable apps.
-- 🌱 I’m currently doing TDD.
+I’m a passionate, proactive and energetic Elixir Developer with +7 years of experience building scalable back-end apps with elixir, Erlang and Phoenix with liveviews.
+- 🔭 Currently building scalable apps.
+- 🌱 Passionate about Hexagonal Architecture.
+- 🤖 Exploring AI-assisted software development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/misael-ralo/)
 
 <!--![](https://komarev.com/ghpvc/?username=misaelralo&label=PROFILE+VIEWS) -->
@@ -18,14 +19,14 @@ I’m a passionate, proactive and energetic Elixir Developer with +5 years of ex
 <img  alt="TailwindCSS" width="40px" height="40px"  style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 <img  alt="Docker" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img  alt="PostgreSQL" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img  alt="NodeJS" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<!--<img  alt="NodeJS" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <img  alt="GitHub" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img  alt="Bootstrap" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img  alt="HTML" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  alt="CSS3" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img  alt="Figma" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img  alt="Jira" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img  alt="NPM" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<!--<img  alt="Jira" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img  alt="NPM" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />-->
 <img  alt="MACOS" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img  alt="Linux" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  alt="Windows" width="40px" height="40px"  style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
