@@ -1,5 +1,5 @@
 # Hello folks!
-I’m a passionate, proactive and energetic Elixir Developer with +7 years of experience building scalable back-end apps with elixir, Erlang and Phoenix with liveviews.
+I’m a passionate, proactive and energetic Elixir Developer with +7 years of experience building scalable apps with elixir, Erlang and Phoenix with liveviews.
 - 🔭 Currently building scalable apps.
 - 🌱 Passionate about Hexagonal Architecture.
 - 🤖 Exploring AI-assisted software development
